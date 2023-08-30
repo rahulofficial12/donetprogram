@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\bin\Debug\Rahul_Ass2_Ques2.exe.config
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\bin\Debug\Rahul_Ass2_Ques2.exe
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\bin\Debug\Rahul_Ass2_Ques2.pdb
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\obj\Debug\Rahul_Ass2_Ques2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\obj\Debug\Rahul_Ass2_Ques2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\obj\Debug\Rahul_Ass2_Ques2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\obj\Debug\Rahul_Ass2_Ques2.exe
+C:\Users\hp\source\repos\Rahul_Ass2_Ques2\Rahul_Ass2_Ques2\obj\Debug\Rahul_Ass2_Ques2.pdb
