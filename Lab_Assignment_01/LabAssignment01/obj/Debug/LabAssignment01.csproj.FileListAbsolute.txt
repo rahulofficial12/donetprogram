@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\bin\Debug\LabAssignment01.exe.config
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\bin\Debug\LabAssignment01.exe
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\bin\Debug\LabAssignment01.pdb
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.exe
+C:\Users\hp\source\repos\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.pdb
