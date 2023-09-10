@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\bin\Debug\Assignment3_Ques8.exe.config
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\bin\Debug\Assignment3_Ques8.exe
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\bin\Debug\Assignment3_Ques8.pdb
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\obj\Debug\Assignment3_Ques8.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\obj\Debug\Assignment3_Ques8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\obj\Debug\Assignment3_Ques8.exe
+C:\Users\Lenovo\source\repos\Assignment3_Ques8\Assignment3_Ques8\obj\Debug\Assignment3_Ques8.pdb
