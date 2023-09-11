@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\obj\Debug\Assignment3_Ques3_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\obj\Debug\Assignment3_Ques3_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\bin\Debug\Assignment3_Ques3_2.exe.config
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\bin\Debug\Assignment3_Ques3_2.exe
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\bin\Debug\Assignment3_Ques3_2.pdb
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\bin\Debug\Assignment3_Ques3.exe
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\bin\Debug\Assignment3_Ques3.pdb
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\bin\Debug\Assignment3_Ques3.exe.config
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\obj\Debug\Assignment3_Ques3_2.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\obj\Debug\Assignment3_Ques3_2.exe
+C:\Users\Lenovo\source\repos\Assignment3_Ques3_2\Assignment3_Ques3_2\obj\Debug\Assignment3_Ques3_2.pdb
